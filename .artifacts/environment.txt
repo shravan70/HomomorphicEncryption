@@ -1,0 +1,2 @@
+macOS-26.1-x86_64-i386-64bit Darwin Kernel Version 25.1.0: Mon Oct 20 19:26:51 PDT 2025; root:xnu-12377.41.6~2/RELEASE_X86_64
+Python 3.10.6

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/shannu/Desk/Homomorph/homo/lib/python3.10/site-packages/concrete/fhe/compilation/module_compiler.py", line 406, in compile
+    function.evaluate("Compiling", inputset, configuration, function_artifacts)
+  File "/Users/shannu/Desk/Homomorph/homo/lib/python3.10/site-packages/concrete/fhe/compilation/module_compiler.py", line 216, in evaluate
+    raise ValueError(message)
+ValueError: Input #0 of your inputset is not well formed (expected a single value got a tuple of 2 values)
